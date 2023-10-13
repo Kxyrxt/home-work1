@@ -1,9 +1,4 @@
-summ(int a, int b) {
-  return a - b;
-}
-
 void main() {
-
-  print(summ(8,2));
-  
+  print('Хотите поменять валюту на сом!');
+  print('Хотите обменять сом на другую валюту!');
 }
